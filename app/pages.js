@@ -9,13 +9,13 @@ export default function Home() {
         {/* Column 1 */}
         <div>
           <Image
-            src="/images/events/photo1.jpg"
+            src="/images/events/1E4A5613-ED73-4D70-AE5F-49E4307591BA.jpeg"
             alt="Event photo 1"
             width={300}
             height={400}
           />
           <Image
-            src="/images/events/photo2.jpg"
+            src="public/images/home/90DE72F1-0D46-4868-B742-1A14B6D39B12.jpeg"
             alt="Event photo 2"
             width={300}
             height={400}
@@ -25,13 +25,13 @@ export default function Home() {
         {/* Column 2 */}
         <div>
           <Image
-            src="/images/portraits/photo1.jpg"
+            src="public/images/home/IMG_7610.JPG"
             alt="Portrait photo 1"
             width={300}
             height={400}
           />
           <Image
-            src="/images/portraits/photo2.jpg"
+            src="public/images/home/IMG_7623.JPG"
             alt="Portrait photo 2"
             width={300}
             height={400}
